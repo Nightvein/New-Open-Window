@@ -1,0 +1,2 @@
+# New-Open-Window
+Mining
